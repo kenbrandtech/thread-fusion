@@ -36,6 +36,10 @@ const MenuOne: React.FC = () => {
     const { cartState } = useCart();
     const { openModalWishlist } = useModalWishlistContext();
     const { openModalSearch } = useModalSearchContext();
+<<<<<<< HEAD
+=======
+
+>>>>>>> 019d1c70e78b17f62bfb1a64436070ae0a796abc
     const [fixedHeader, setFixedHeader] = useState(false);
     const [lastScrollPosition, setLastScrollPosition] = useState(0);
 
