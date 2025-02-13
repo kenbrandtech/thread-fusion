@@ -10,7 +10,7 @@ export interface ProductType {
     category: string,
     type: string,
     name: string,
-    gender: string,
+    gender: string, 
     new: boolean,
     sale: boolean,
     rate: number,
